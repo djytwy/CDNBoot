@@ -1,0 +1,1 @@
+import{o as e,r as t}from"./vendor.d5788ed4.js";import{u as n}from"./index.0208db1b.js";const r=e((e=>{const r=n("counterStore");return t.createElement(t.Fragment,null,t.createElement("h1",null,"web应用页面！"),t.createElement("div",null,r.counter),t.createElement("button",{onClick:r.increment},"点击+"),t.createElement("button",{onClick:r.decrement},"点击-"))}));export default r;
